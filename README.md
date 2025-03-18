@@ -2,34 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Parth++Kale+.+.+.;Checkout+my+Github+Profile">
 </div>
 
-<h2>Tech Stack</h2>
-<p>
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthpkale&layout=donut-vertical&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=8&size_weight=0.6&count_weight=0.4">
-      </td>
-      <td>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,arduino,react,java,html,css,js,ts" />
-        </p>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,nodejs,spring,tailwind,tensorflow" />
-        </p>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,supabase,api,mongodb,firebase,huggingface,docker,raspberrypi" />
-        </p>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,latex,desmos,idea,acrobat,vercel,davinci,netlify" />
-      </td>
-    </tr>
-  </table> 
-
-<h2>Connect with me</h2>
-<p align = "left">
-  <a href = "https://www.linkedin.com/in/parthpkale/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
-  </a>
-  <a href = "https://www.parthkale.com">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mediaencoder" />
-  </a>
-</p>  
+👋 Hi, I’m Parth Kale and I'm studying Computer Engineering at the University of Waterloo.
 
 <h2>GitHub Stats</h2>
 <center>
@@ -44,7 +17,6 @@
 
 
 
-👋 Hi, I’m Parth Kale and I'm studying Computer Engineering at the University of Waterloo.
 
 <!---
 parthpkale/parthpkale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
