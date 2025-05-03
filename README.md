@@ -4,6 +4,7 @@
 
 👋 Hi, I’m Parth Kale and I'm studying Computer Engineering at the University of Waterloo.
 
+<!--
 <h2>GitHub Stats</h2>
 <center>
 <p>
